@@ -1,0 +1,8 @@
+Contact: mailto:info@milestoneconsultancy.in
+Canonical: https://milestoneconsultancy.in/security.txt
+Preferred-Languages: en
+Policy: https://milestoneconsultancy.in
+Expires: 2027-12-31T23:59:59.000Z
+
+# Milestone Consultancy Security Contact
+# Please report security vulnerabilities responsibly.

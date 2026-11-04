@@ -1,0 +1,32 @@
+/* TEAM */
+
+Company: Milestone Consultancy
+Website: https://milestoneconsultancy.in
+Email: info@milestoneconsultancy.in
+Location: Kalyan, Maharashtra, India
+
+/* TECHNOLOGY */
+
+Frontend:
+React
+Vite
+TanStack Router
+
+Hosting:
+Vercel
+
+Analytics:
+Google Analytics 4
+Microsoft Clarity
+
+SEO:
+Google Search Console
+Schema.org
+Open Graph
+Sitemap.xml
+Robots.txt
+
+/* COPYRIGHT */
+
+© 2026 Milestone Consultancy.
+All Rights Reserved.
